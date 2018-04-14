@@ -1,4 +1,4 @@
-# CS7642 Reinforcement Learning (Project 1) -- Temporal Difference Algorithm & Random Walk
+# Reinforcement Learning -- Temporal Difference Algorithm & Bounded Random Walk
   File -- prj1.py (written in python 3)
   ## External packages included: 
     1) "random" package for generation of random sequences;
